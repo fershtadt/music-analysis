@@ -1,0 +1,20 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data
+*.csv
+
+# Images
+*.png
+*.jpg
+
+# Archives
+*.zip
